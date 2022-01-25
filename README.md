@@ -22,6 +22,7 @@ Change_Circle = True
 Change_Triangle = True
 
 Change_Cross = True
+
 ---------------------------------------------------------------------
 
 Cross effect change, there have been balances,so that counter always makes 0 X power
@@ -42,6 +43,7 @@ Change_Plus_DP = True
  If you put more than 172 (all avail) then it will error.
  
 Change_Element = 25
+
 ---------------------------------------------------------------------
 
 Will randomise the decks of opponents, changing options but keeping the same
