@@ -1,6 +1,6 @@
 # Digimon-Card-Battle-Rando
 
-I'M TERRIBLE AT MAKING UI AND I'M ALSO A TERRIBLE CODER SO SORRY IN ADVANCE.
+I had no idea how to create a UI so you'll have to modify the randomiser file directly
 I also haven't quite finished this and made it "fully" customisable for the average non coder.
 
 ## How to Use
